@@ -4,6 +4,8 @@
 
 ## Base model
 
+- [Qwen/Qwen2-7B](https://huggingface.co/Qwen/Qwen2-7B)
+- [Qwen/Qwen2-7B-Instruct](https://huggingface.co/Qwen/Qwen2-7B-Instruct)
 - [Qwen/Qwen2.5-7B](https://huggingface.co/Qwen/Qwen2.5-7B)
 - [Qwen/Qwen2.5-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct)
 - [google/gemma-2-9b](https://huggingface.co/google/gemma-2-9b)
