@@ -1,7 +1,7 @@
 # KRX_competition 2024
 본 레포지터리는 [제3회 KRX 금융 언어 모델 경진대회](https://krxbench.koscom.co.kr/home/main) 참가 후기 및 소스코드의 정리를 위한 저장소입니다.
 
-## Base model
+## Used Base model
 
 - [Qwen/Qwen2-7B](https://huggingface.co/Qwen/Qwen2-7B)
 - [Qwen/Qwen2-7B-Instruct](https://huggingface.co/Qwen/Qwen2-7B-Instruct)
@@ -10,7 +10,7 @@
 - [google/gemma-2-9b](https://huggingface.co/google/gemma-2-9b)
 - [google/gemma-2-9b-it](https://huggingface.co/google/gemma-2-9b-it)
 
-## Fine-Tuning model list
+## Fine-Tuning model
 
 - [Model list](https://huggingface.co/vitus48683)
 
