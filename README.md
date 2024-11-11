@@ -21,6 +21,8 @@
 - [amphora/krx-sample-instructions](https://huggingface.co/datasets/amphora/krx-sample-instructions)
 - [숫자연산 기계독해 데이터](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=71568)
 
+위 데이터셋을 GPT-4o-mini api를 사용하여 학습에 적절한 Q&A형태로 변환하였습니다.
+
 ## 학습환경
 - 24 vCPU, 128GB Ram, A100 PCIe 80GB 서버 임대
 
