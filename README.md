@@ -32,3 +32,4 @@
 - [LoRA](https://arxiv.org/abs/2106.09685)
 - [QLoRA](https://arxiv.org/abs/2305.14314)
 - [Mergekit](https://github.com/arcee-ai/mergekit)
+- [GPT Batch API](https://platform.openai.com/docs/guides/batch)
